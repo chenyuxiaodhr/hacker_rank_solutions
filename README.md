@@ -3,7 +3,9 @@ my solutions for hacker rank problems
 
 my HackerRank page: [CdiajadeX](https://www.hackerrank.com/CdiajadeX)
 
-I started to solve problems in HackerRank several days ago. I will keep working on it and push the solutions here in time.
+I started to solve problems in HackerRank several days ago. 
+I will keep working on it and push the solutions here in time.
+All solutions are C++ codes.
 
 Feel free to star or fork this project.
 
